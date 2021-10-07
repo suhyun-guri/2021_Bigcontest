@@ -1,6 +1,6 @@
 # 2021_Bigcontest
 ----
-![](https://images.velog.io/images/suhyun-guri/post/0a01616b-e1ef-49c1-917f-5f6626a47d1a/image.png)
+![image](https://user-images.githubusercontent.com/70987343/136367466-6c94804c-b90f-45c1-8d22-58f8acd3a8c6.png)
 
 
 ----
